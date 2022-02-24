@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewbox="-1 -1 15 15">
-  <rect y="0" height="13" width="12" stroke="#179" rx="1" fill="#2ac"/>
-  <text x="1.5" y="11" font-family="courier" stroke="white" font-size="16"><![CDATA[B]]></text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewbox="-1 -1 15 15"><rect width="12" height="13" y="0" fill="#2ac" stroke="#179" rx="1"/><text x="1.5" y="11" stroke="#fff" font-family="courier" font-size="16"><![CDATA[B]]></text></svg>
