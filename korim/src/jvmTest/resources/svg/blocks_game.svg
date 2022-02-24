@@ -1,20 +1,4 @@
-<?xml version="1.0"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
-         "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-
-<!-- SVG Tetris-clone for SVG-enabled Mozilla -->
-<!-- (c)2004 alex fritze <alex@croczilla.com> -->
-<!-- ugly score and time hack by Tuna-Fish    -->
-<!--                                          -->
-<!-- For info about Mozilla/SVG see           -->
-<!-- http://www.mozilla.org/projects/svg/     -->
-
-<svg xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink"
-     onload="loaded();">
-
-<script>
-<![CDATA[
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" onload="loaded();"><script><![CDATA[
 
 //----------------------------------------------------------------------
 // static data
@@ -488,11 +472,4 @@ function init() {
   // initialize event processing:
   document.documentElement.addEventListener("keydown", keyHandler, false);
 }
-]]>
-</script>
-
-<text x="1" y="1" font-size="1px">Mozilla SVG Tetris - Press 'h' for help.</text>
-<g id="preview" stroke-width="0.02"/>
-<g id="board" stroke-width="0.02"/>
-
-</svg>
+]]></script><text x="1" y="1" font-size="1">Mozilla SVG Tetris - Press &apos;h&apos; for help.</text></svg>
